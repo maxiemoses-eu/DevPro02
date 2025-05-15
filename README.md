@@ -6,8 +6,3 @@ seven
 six
 five 
 four
-three
-two
-one
-
-

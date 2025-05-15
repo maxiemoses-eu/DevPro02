@@ -1,0 +1,4 @@
+It hard to learn DevOps at the beginning
+True
+or
+False
